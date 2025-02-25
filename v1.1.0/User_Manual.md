@@ -24,7 +24,11 @@
 
 ## สร้าง กลุ่มวิจัย
 1. คลิกปุ่ม ADD
+
+   ![Admin_add_success](images/admin_researchgroup.png)
 2. เพิ่มเนื้อหากลุ่มวิจัย
+
+   ![Admin_add_success](images/admin_add_researchgroup.png)
 3. กดปุ่ม Submit หากสำเร็จจะกลับมายังหน้า กลุ่มวิจัยทั้งหมด และแจ้งเตือนว่า **"Research group created successfully."** ถือว่าเพิ่มกลุ่มวิจัยเสร็จสิ้นแล้ว
 
    ![Admin_add_success](images/admin_add_success.png)
