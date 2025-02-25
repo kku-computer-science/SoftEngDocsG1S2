@@ -8,19 +8,29 @@
    
    ![Home](images/home.png)
 
+# Researcher
+## เข้าสู่ระบบ
+1. กดที่ปุ่ม LOGIN มุมขวาบนของเว็บไซต์
+2. กรอก Username และ Password ที่ได้รับ จากนั้นกด LOG IN
+   ![Login](images/login.png)
+
+## กลุ่มวิจัย
+1. เลือกเมนู Research Group จาก side bar
+   ![Admin_Home](images/admin_home.png)
+2. จะแสดงกลุ่มวิจัยทั้งหมด โดย **Admin จะสามารถสร้าง ดู แก้ไข และลบ กลุ่มวิจัยได้**
+   ![Admin_ResearchGroip](images/admin_researchgroup.png)
+
+   
 # Admin
 ## เข้าสู่ระบบ
 1. กดที่ปุ่ม LOGIN มุมขวาบนของเว็บไซต์
 2. กรอก Username และ Password ที่ได้รับ จากนั้นกด LOG IN
    ![Login](images/login.png)
 
-## ดูกลุ่มวิจัย
+## กลุ่มวิจัย
 1. เลือกเมนู Research Group จาก side bar
    ![Admin_Home](images/admin_home.png)
-2. จะแสดงกลุ่มวิจัยทั้งหมด โดย **Admin จะสามารถดู แก้ไข และลบ กลุ่มวิจัยได้**
+2. จะแสดงกลุ่มวิจัยทั้งหมด โดย **Admin จะสามารถสร้าง ดู แก้ไข และลบ กลุ่มวิจัยได้**
    ![Admin_ResearchGroip](images/admin_researchgroup.png)
 
-1. **Install Dependencies**: 
-    ```bash
-    composer update
-    ```
+
