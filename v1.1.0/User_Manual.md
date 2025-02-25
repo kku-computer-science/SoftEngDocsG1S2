@@ -66,7 +66,7 @@
 # 2. Researcher
 1. ในเมนู Research Group จะแสดงกลุ่มวิจัยทั้งหมดที่ researcher มีส่วนเกี่ยวข้อง
    
-   ![Admin_ResearchGroip](images/admin_view.png)
+   ![Admin_ResearchGroip](images/head_view.png)
    
 ## 2.1 Headproject
 1. หาก researcher เป็น **headproject จะสามารถดู แก้ไข และลบ กลุ่มวิจัยของตนเองได้**
