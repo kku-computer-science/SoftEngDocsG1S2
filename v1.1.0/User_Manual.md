@@ -71,7 +71,7 @@
 ## 2.1 Headproject
 1. หาก researcher เป็น **headproject จะสามารถดู แก้ไข และลบ กลุ่มวิจัยของตนเองได้**
    
-   ![Admin_ResearchGroip](images/admin_researchgroup.png)
+   ![Admin_ResearchGroip](images/head_view.png)
    
 ### ดู กลุ่มวิจัย
 1. คลิกปุ่ม view ในคอลัมน์ Action
