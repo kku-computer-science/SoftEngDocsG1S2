@@ -32,7 +32,7 @@
 
    ![Head_add](images/Head_recruitment_add.png)
    
-3. กดปุ่ม Submit หากสำเร็จจะกลับมายังหน้า กลุ่มประกาศรับสมัครทั้งหมด และแจ้งเตือนว่า **"Research group created successfully."** ถือว่าเพิ่มประกาศรับสมัครเสร็จสิ้นแล้ว
+3. กดปุ่ม Submit หากสำเร็จจะกลับมายังหน้า กลุ่มประกาศรับสมัครทั้งหมด และแจ้งเตือนว่า **"Recruitment announcement created succeesfully."** ถือว่าเพิ่มประกาศรับสมัครเสร็จสิ้นแล้ว
 
    ![Head_add_success](images/Head_recruitment_add_success.png)
 
@@ -42,7 +42,7 @@
    ![Head_View](images/Head_recruitment_view.png)
 2. จะแสดงข้อมูลรายละเอียดต่าง ๆ ของกลุ่มประกาศรับสมัครนั้น ๆ
 
-   ![Head_View](images/Head_recruitment_viewdetail.png)
+   ![Head_View](images/Head_recruitment_detail.png)
 
 ## แก้ไข ประกาศรับสมัคร
 1. คลิกปุ่ม edit ในคอลัมน์ Action
@@ -51,7 +51,7 @@
 2. จะแสดงข้อมูลรายละเอียดต่าง ๆ ของประกาศรับสมัครนั้น ๆ และสามารถแก้ไขได้
 
    ![Head_Edit](images/Head_recruitment_editdetail.png)
-3. เมื่อกด Submit หากสำเร็จจะกลับมายังหน้า ประกาศรับสมัครทั้งหมด และแจ้งเตือนว่า **"Research group updated successfully"** ถือว่าแก้ไขเสร็จสิ้นแล้ว
+3. เมื่อกด Submit หากสำเร็จจะกลับมายังหน้า ประกาศรับสมัครทั้งหมด และแจ้งเตือนว่า **"Recruitment announcement updated successfully"** ถือว่าแก้ไขเสร็จสิ้นแล้ว
 
    ![Head_Edit_success](images/Head_recruitment_edit_success.png)
    
@@ -62,7 +62,7 @@
 2. จะขึ้นแจ้งเตือนว่า "Are you Sure?" หากกด OK จะเป็นการลบประกาศรับสมัครนั้น หากกด Cancle จะเป็นการยกเลิกการทำงาน
 
    ![Head_Del_Alert](images/alert_del.png)
-3. หากลบสำเร็จจะกลับมายังหน้า ประกาศรับสมัครทั้งหมด และแจ้งเตือนว่า **"Research group deleted successfully"** ถือว่าลบเสร็จสิ้นแล้ว
+3. หากลบสำเร็จจะกลับมายังหน้า ประกาศรับสมัครทั้งหมด และแจ้งเตือนว่า **"Recruitment announcement deleted successfully"** ถือว่าลบเสร็จสิ้นแล้ว
 
    ![Head_del](images/del_recruitment_success_alert.png)
 
